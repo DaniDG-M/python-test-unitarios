@@ -3,7 +3,7 @@ import my_module
 
 
 def test_suma():
-    assert 10 == my_module.suma(1, 1)
+    assert 20 == my_module.suma(1, 1)
     assert 14 == my_module.suma(12, 2)
 
 
