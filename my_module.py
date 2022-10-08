@@ -1,6 +1,6 @@
 def suma(a, b):
     if a < 10:
-        return 10
+        return 20
     return a + b
 
 
